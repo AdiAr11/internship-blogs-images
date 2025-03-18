@@ -1,0 +1,95 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600">
+  <!-- Background -->
+  <rect width="800" height="600" fill="white" />
+  
+  <!-- Gray search bar -->
+  <rect x="240" y="120" width="320" height="25" fill="#e0e0e0" rx="2" ry="2" />
+  <text x="280" y="137" font-family="Arial" font-size="14" fill="#666">https://ror.org/03vek6s92</text>
+  <circle cx="545" cy="132" r="7" fill="white" stroke="#999" stroke-width="1" />
+  
+  <!-- ROB based url arrow -->
+  <line x1="320" y1="120" x2="320" y2="70" stroke="black" stroke-width="1.5" />
+  <polygon points="320,70 315,80 325,80" fill="black" />
+  <text x="330" y="60" font-family="Arial" font-size="16" font-weight="normal">ROR based url</text>
+  
+  <!-- ROB logo -->
+  <text x="80" y="140" font-family="Arial" font-size="48" font-weight="bold">ROR</text>
+  
+  <!-- ROR url -->
+  <text x="15" y="170" font-family="Arial" font-size="12" fill="#666">https://ror.org/03vek6s92</text>
+  
+  <!-- ROR id arrow -->
+  <line x1="140" y1="170" x2="200" y2="170" stroke="black" stroke-width="1.5" />
+  <polygon points="200,170 190,165 190,175" fill="black" />
+  <text x="210" y="170" font-family="Arial" font-size="16" font-weight="normal">ROR id</text>
+  
+  <!-- Search box - moved to the right -->
+  <rect x="300" y="160" width="150" height="25" fill="white" stroke="#999" stroke-width="1" rx="2" ry="2" />
+  <text x="310" y="178" font-family="Arial" font-size="14">Search Registry</text>
+  <rect x="450" y="160" width="20" height="25" fill="white" stroke="#00a" stroke-width="1" rx="2" ry="2" />
+  <text x="455" y="178" font-family="Arial" font-size="14" fill="#00a">🔎</text>
+  
+  <!-- Harvard University box -->
+  <rect x="15" y="190" width="130" height="30" fill="white" stroke="#00a" stroke-width="1.5" rx="2" ry="2" />
+  <text x="25" y="210" font-family="Arial" font-size="14" font-weight="bold">Harvard University</text>
+  
+  <!-- Harvard University arrow -->
+  <line x1="147" y1="205" x2="200" y2="205" stroke="black" stroke-width="1.5" />
+  <polygon points="200,205 190,200 190,210" fill="black" />
+  <text x="210" y="195" font-family="Arial" font-size="14" font-weight="normal">official name of the</text>
+  <text x="210" y="215" font-family="Arial" font-size="14" font-weight="normal">organisation</text>
+  
+  <!-- Universidad de Harvard -->
+  <rect x="15" y="220" width="130" height="20" fill="white" stroke="#00a" stroke-width="0.5" rx="2" ry="2" />
+  <text x="25" y="235" font-family="Arial" font-size="12" fill="#00a">UNIVERSIDAD DE HARVARD</text>
+  
+  <!-- Website box -->
+  <rect x="15" y="250" width="130" height="30" fill="white" stroke="#0aa" stroke-width="1.5" rx="2" ry="2" />
+  <text x="25" y="270" font-family="Arial" font-size="14" fill="#0aa" font-weight="bold">WEBSITE</text>
+  
+  <!-- Harvard URL -->
+  <rect x="15" y="280" width="130" height="20" fill="white" stroke="#0aa" stroke-width="0.5" rx="2" ry="2" />
+  <text x="25" y="295" font-family="Arial" font-size="10" fill="#0aa">https://harvard.edu/</text>
+  
+  <!-- URL arrow -->
+  <line x1="147" y1="265" x2="200" y2="265" stroke="black" stroke-width="1.5" />
+  <polygon points="200,265 190,260 190,270" fill="black" />
+  <text x="210" y="265" font-family="Arial" font-size="14" font-weight="normal">official URL</text>
+  
+  <!-- Country pill -->
+  <rect x="15" y="320" width="80" height="30" fill="white" stroke="black" stroke-width="1" rx="15" ry="15" />
+  <text x="25" y="340" font-family="Arial" font-size="14">United States</text>
+  
+  <!-- Type pill -->
+  <rect x="105" y="320" width="80" height="30" fill="white" stroke="#0aa" stroke-width="1" rx="15" ry="15" />
+  <text x="125" y="340" font-family="Arial" font-size="14" fill="#0aa">Education</text>
+  
+  <!-- Country arrow -->
+  <line x1="55" y1="350" x2="55" y2="380" stroke="black" stroke-width="1.5" />
+  <polygon points="55,380 50,370 60,370" fill="black" />
+  <text x="45" y="400" font-family="Arial" font-size="14" font-weight="normal">Country</text>
+  
+  <!-- Type arrow -->
+  <line x1="145" y1="350" x2="145" y2="380" stroke="black" stroke-width="1.5" />
+  <polygon points="145,380 140,370 150,370" fill="black" />
+  <text x="145" y="400" font-family="Arial" font-size="14" font-weight="normal">Type</text>
+  
+  <!-- Other identifiers -->
+  <text x="290" y="290" font-family="Arial" font-size="16" fill="#0aa" font-weight="bold">Other Identifiers</text>
+  
+  <!-- GRID identifier -->
+  <text x="290" y="320" font-family="Arial" font-size="14" fill="#0aa">GRID</text>
+  <text x="325" y="320" font-family="Arial" font-size="14">grid.38142.3c</text>
+  
+  <!-- ISNI identifier -->
+  <text x="290" y="340" font-family="Arial" font-size="14" fill="#0aa">ISNI</text>
+  <text x="325" y="340" font-family="Arial" font-size="14">0000000244243</text>
+  
+  <!-- Crossref identifier -->
+  <text x="290" y="360" font-family="Arial" font-size="14" fill="#0aa">Crossref Funder ID</text>
+  <text x="390" y="360" font-family="Arial" font-size="14">11232315</text>
+  
+  <!-- Wikidata identifier -->
+  <text x="290" y="380" font-family="Arial" font-size="14" fill="#0aa">Wikidata</text>
+  <text x="335" y="380" font-family="Arial" font-size="14">Q13371</text>
+</svg>
